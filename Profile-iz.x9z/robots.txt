@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /images/
+Disallow: /.git/
+Disallow: /.github/
+
+Sitemap: https://darkofst.github.io/iz.x9z-Personal-Portfolio/sitemap.xml

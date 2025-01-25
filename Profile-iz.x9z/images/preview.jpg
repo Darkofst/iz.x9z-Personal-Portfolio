@@ -1,0 +1,13 @@
+data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+    <defs>
+        <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#6C63FF;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#4CAF50;stop-opacity:1" />
+        </linearGradient>
+    </defs>
+    <rect width="1200" height="630" fill="#1a1a2e"/>
+    <rect x="50" y="50" width="1100" height="530" rx="20" fill="url(#grad)" opacity="0.1"/>
+    <text x="600" y="250" font-family="Arial" font-size="72" fill="white" text-anchor="middle" font-weight="bold">iz.x9z</text>
+    <text x="600" y="350" font-family="Arial" font-size="36" fill="#6C63FF" text-anchor="middle">Gaming Portfolio</text>
+    <text x="600" y="420" font-family="Arial" font-size="24" fill="#ffffff80" text-anchor="middle">GranTurismo • Minecraft • Rocket League</text>
+</svg>
